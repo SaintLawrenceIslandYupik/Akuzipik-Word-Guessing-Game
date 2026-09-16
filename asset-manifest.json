@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://example.com/static/css/main.deae8f2c.css",
-    "main.js": "https://example.com/static/js/main.cc853998.js",
-    "static/js/453.313d9cb8.chunk.js": "https://example.com/static/js/453.313d9cb8.chunk.js",
-    "static/media/BCSans-Bold.woff": "https://example.com/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "https://example.com/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "https://example.com/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "https://example.com/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "https://example.com/index.html",
-    "static/media/getFetch.cjs": "https://example.com/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.deae8f2c.css.map": "https://example.com/static/css/main.deae8f2c.css.map",
-    "main.cc853998.js.map": "https://example.com/static/js/main.cc853998.js.map",
-    "453.313d9cb8.chunk.js.map": "https://example.com/static/js/453.313d9cb8.chunk.js.map"
+    "main.css": "https://akuzle.akuzipik.info/static/css/main.a771e395.css",
+    "main.js": "https://akuzle.akuzipik.info/static/js/main.6885b6f4.js",
+    "static/js/453.313d9cb8.chunk.js": "https://akuzle.akuzipik.info/static/js/453.313d9cb8.chunk.js",
+    "static/media/BCSans-Bold.woff": "https://akuzle.akuzipik.info/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "https://akuzle.akuzipik.info/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "https://akuzle.akuzipik.info/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "https://akuzle.akuzipik.info/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "https://akuzle.akuzipik.info/index.html",
+    "static/media/getFetch.cjs": "https://akuzle.akuzipik.info/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.a771e395.css.map": "https://akuzle.akuzipik.info/static/css/main.a771e395.css.map",
+    "main.6885b6f4.js.map": "https://akuzle.akuzipik.info/static/js/main.6885b6f4.js.map",
+    "453.313d9cb8.chunk.js.map": "https://akuzle.akuzipik.info/static/js/453.313d9cb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.deae8f2c.css",
-    "static/js/main.cc853998.js"
+    "static/css/main.a771e395.css",
+    "static/js/main.6885b6f4.js"
   ]
 }
